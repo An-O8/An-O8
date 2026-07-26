@@ -4,6 +4,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python" />
 
-![Snake animation](https://raw.githubusercontent.com/An-O8/An-O8/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/An-O8/An-O8/output/github-contribution-grid-snake-dark.svg)
 
 </div>
